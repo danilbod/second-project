@@ -1,0 +1,10 @@
+.footer_column_content_info{
+	display:flex;
+	justify-content:flex-end;
+
+	
+	width:50%;
+	min-height:350px;
+	margin-left:0px;
+	gap:20%;
+}

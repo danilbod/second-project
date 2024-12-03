@@ -1,0 +1,5 @@
+.footer_column_content_social{
+	height:50px;
+	display:flex;
+	flex-direction:column;
+}

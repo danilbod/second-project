@@ -1,0 +1,14 @@
+
+.two-columns__paragraph{
+
+	margin-top:0px;
+	margin-bottom:30px;
+	color:#000000;
+	white-space: normal;
+	line-height:34px;
+	font-size:24px;
+	font-weight:normal;
+}
+.paragraph:last-of-type{
+	margin-bottom:auto;
+}
